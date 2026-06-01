@@ -15,7 +15,7 @@
 Python 3.10+ (используются `zipfile`, `json`, `os`, `re` — никаких внешних зависимостей).
 
 ```bash
-git clone [<repo-url>](https://github.com/QueenDekim/items-n-blocks-id-extractor.git)
+git clone https://github.com/QueenDekim/items-n-blocks-id-extractor.git
 cd items-n-blocks-id-extractor
 ```
 
