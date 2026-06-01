@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Output
+ids_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
